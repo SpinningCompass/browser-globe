@@ -1,0 +1,21 @@
+{
+  "name": "browser-globe",
+  "version": "1.0.0",
+  "description": "A globe in the browser",
+  "main": "helloworld.js",
+  "dependencies": {
+    "bootstrap": "^3.3.5",
+    "bower": "^1.6.5",
+    "grunt": "^0.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "browser-globe"
+  },
+  "author": "Megan Yancy",
+  "license": "ISC"
+}
